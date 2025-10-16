@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **nitya@curiouscoder.live**
 
-[![An image of @username's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@curiouscodercmd)](https://holopin.io/@curiouscodercmd)
+### 🏅 My Hacktoberfest Badges
+[![Badge 1](https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp)](https://holopin.io/@curiouscodercmd)
+[![Badge 2]([https://holopin.io/badge2.png](https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp))](https://holopin.io/@curiouscodercmd)
 
 
 <h3 align="left">Connect with me:</h3>
