@@ -23,8 +23,7 @@ jobs:
           github_user_name: curiouscoder-cmd
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#764ba2&color_dots=#667eea,#764ba2,#9d5fef,#b070f0,#c47ff5
-            dist/purple-snake.gif?color_snake=#764ba2&color_dots=#667eea,#764ba2,#9d5fef,#b070f0,#c47ff5
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#764ba2
       
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
