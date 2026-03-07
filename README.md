@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=0:667eea,100:764ba2&height=200&text=Nitya%20Jain&fontSize=80&fontColor=fff&rotate=14&animation=fadeIn&desc=Crafting%20Intelligent%20Solutions&descAlign=70&descAlignY=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=280&section=header&text=Nitya%20Jain&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Oracle%20Certified&descAlignY=65&descAlign=50&descSize=18" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
@@ -58,40 +58,71 @@ const nitya = {
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,supabase,prisma,docker,git,github,gcp,vercel,figma,vscode&perline=10" />
 </p>
 
+### 🎯 Specialized Skills
 
-<summary><b>🎯 Specialized Skills</b></summary>
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Frontend Mastery**
-```
-React 19 • Next.js 16 • TypeScript • TailwindCSS • Three.js • Framer Motion
-Zustand • Chart.js • Responsive Design • SSR Optimization
-```
+**💻 Frontend Development**
 
-**Backend & APIs**
-```
-Node.js • Express.js • Hono • RESTful APIs • GraphQL
-Microservices • OAuth 2.0 • JWT • WebSockets
-```
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-**Databases & ORMs**
-```
-PostgreSQL • MongoDB • MySQL • Supabase • Prisma • Drizzle ORM
-Vector Databases • Row Level Security • Query Optimization
-```
+**⚙️ Backend Development**
 
-**AI/ML Stack**
-```
-Google Gemini AI • Vertex AI • LangChain • ChromaDB • Pinecone
-Large Language Models (LLMs) • RAG Architecture • Multi-Agent Systems
-Prompt Engineering • Vector Search
-```
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**DevOps & Cloud**
-```
-Docker • CI/CD Pipelines • GitHub Actions • Google Cloud Platform (GCP)
-Vercel • Supabase • Performance Optimization • SEO
-```
+**🗄️ Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI/ML Stack**
+
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**🚀 DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+**🛠️ Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 
 
